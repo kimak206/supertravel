@@ -174,7 +174,7 @@ https://templatemo.com/tm-516-known
 
   section {
     position: relative;
-    padding: 100px 0;
+    padding: 50px 0;
   }
 
   #team, 
@@ -700,7 +700,7 @@ https://templatemo.com/tm-516-known
   -----------------------------------------*/
 
   #contact {
-    background: #3f51b5;
+    background: #d3d2d2;
   }
 
   #contact h2 {
@@ -879,8 +879,16 @@ https://templatemo.com/tm-516-known
     background: #29ca8e;
     color: #ffffff;
   }
-
-
+  .contact-title {
+    color: black!important;
+  }
+  .contact-list > p{
+    color: black!important;
+  }
+  .contact-list > ul {
+    list-style: none;
+    color: black;
+  }
 
   /*---------------------------------------
      RESPONSIVE STYLES              
