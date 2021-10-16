@@ -700,7 +700,7 @@ https://templatemo.com/tm-516-known
   -----------------------------------------*/
 
   #contact {
-    background: #d3d2d2;
+    background: #ffffff;
   }
 
   #contact h2 {
@@ -880,14 +880,20 @@ https://templatemo.com/tm-516-known
     color: #ffffff;
   }
   .contact-title {
-    color: black!important;
+    color: #29ca8e!important;
+    font-size: 3rem;
   }
   .contact-list > p{
     color: black!important;
+    font-size: larger;
   }
   .contact-list > ul {
     list-style: none;
     color: black;
+  }
+
+  .contact-list > ul > li {
+    font-size: 18px;
   }
 
   /*---------------------------------------
