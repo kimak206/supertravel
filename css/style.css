@@ -54,7 +54,23 @@ https://templatemo.com/tm-516-known
     line-height: 24px;
   }
 
+  .bg-white {
+    background-color: white!important;
+  }
 
+  .text-green {
+    color: #29ca8e;
+  }
+
+  .py-10 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .px-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 
   /*---------------------------------------
      GENERAL               
